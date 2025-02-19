@@ -68,4 +68,4 @@ AdaSmooth — это метод стохастической оптимизац�
 2. Bengio, Y.: Learning deep architectures for AI. Foundations and trends in Machine Learning 2, 1-127 (2009).
 3. Skillfactory : сайт - URL: https://blog.skillfactory.ru/glossary/deep-learning/ (дата обращения: 10.02.2025).
 4. Neurohive : сайт - URL: https://neurohive.io/ru/vidy-nejrosetej/alexnet-svjortochnaja-nejronnaja-set-dlja-raspoznavanija-izobrazhenij/ (дата обращения: 10.02.2025).
-5. arxiv : сайт - URL: https://arxiv.org/abs/2204.00825v1 (дата обращения: 18.02.2025).
+5. Arxiv : сайт - URL: https://arxiv.org/abs/2204.00825v1 (дата обращения: 18.02.2025).
