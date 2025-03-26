@@ -73,7 +73,7 @@ AlexNet содержит восемь слоев с весовыми коэфф�
 Результат обучения нейронной сети AlexNet с оптимизаторами Adam и AdaSmooth приведен на рисунке 3.
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/4ba3aa85-baaa-4aa4-b9f8-5ef2c4318054)">
+  <img src="https://github.com/user-attachments/assets/4ba3aa85-baaa-4aa4-b9f8-5ef2c4318054">
 </p>
 
 <p align="center">
